@@ -1,10 +1,7 @@
-Practice for frequency counting techniques using objects.
 
-most comments are scribbles but a heads up they are written as:
-
-      1 description of question
+      1 description 
       2 input assesment
       3 (edge cases) sometimes
       4 desired output
-      5 technique that I tought off
+      5 technique
       6 (implementation) actual function
